@@ -13,7 +13,7 @@ License: GNU AGPLv3 or later <https://www.gnu.org/licenses/agpl.html>
 
 import aqt
 from aqt.qt import *
-from PyQt5.QtWebEngineWidgets import QWebEnginePage
+# from PyQt5.QtWebEngineWidgets import QWebEnginePage
 from aqt import mw
 from anki.hooks import addHook
 from aqt.webview import AnkiWebView
